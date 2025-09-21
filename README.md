@@ -102,6 +102,5 @@ Flagged: False
 ## ⚙️  Demo
 
 ```
-https://huggingface.co/spaces/mohamedabbouda/confidence-qa-demo
-
+[Hugging Face Demo](https://huggingface.co/spaces/mohamedabbouda/confidence-qa-demo)
 ```
