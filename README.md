@@ -1,3 +1,14 @@
+---
+title: Confidence QA Demo
+emoji: 📄
+colorFrom: blue
+colorTo: green
+sdk: gradio
+sdk_version: 4.36.1
+app_file: app.py
+pinned: false
+---
+
 # 📝 Confidence-Based Document QA Extraction with Feedback Logging and Web Demo
 
 This project is a prototype **question answering (QA) system** built as part of an internship technical task.  
