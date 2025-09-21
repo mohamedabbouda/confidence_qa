@@ -89,3 +89,9 @@ Answer: 1889
 Confidence: 0.92
 Flagged: False
 ```
+## ⚙️  Demo
+
+```
+
+https://huggingface.co/spaces/mohamedabbouda/confidence-qa-demo
+```
