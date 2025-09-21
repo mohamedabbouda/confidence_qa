@@ -1,0 +1,5 @@
+{"context_id":"doc_0002","question":"Where did Super Bowl 50 take place?","predicted_answer":"Levi's Stadium in the San Francisco Bay Area at Santa Clara, California","confidence":0.2759,"flagged":true,"corrected_answer":"Santa Clara, California"}
+{"context_id":"doc_0016","question":"What year did the Denver Broncos secure a Super Bowl title for the third time?","predicted_answer":"2016","confidence":0.6414,"flagged":true,"corrected_answer":"2015"}
+{"context_id":"doc_0027","question":"Where was Super Bowl 50 held?","predicted_answer":"Levi's Stadium in the San Francisco Bay Area at Santa Clara, California","confidence":0.2876,"flagged":true,"corrected_answer":"Santa Clara, California"}
+{"context_id": "manual_1758475959", "question": "\"Who built the tower?\"", "predicted_answer": "Eiffel Tower is in Paris. It was completed in 1889", "confidence": 0.1235, "flagged": true, "corrected_answer": "Gustave Eiffel"}
+{"context_id": "manual_1758475962", "question": "\"Who built the tower?\"", "predicted_answer": "Eiffel Tower is in Paris. It was completed in 1889", "confidence": 0.1235, "flagged": true, "corrected_answer": "Gustave Eiffel"}
