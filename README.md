@@ -48,3 +48,33 @@ source .venv/bin/activate   # macOS/Linux
  pip install -r requirements.txt
 ```
 
+## ⚙️ Run pipeline (generate feedback logs)
+```
+ python qa_pipeline.py
+
+```
+
+## ⚙️ Run web app
+```
+python app.py
+```
+
+## ⚙️ 📝 Example
+
+Context:
+```
+
+The Eiffel Tower is in Paris. It was completed in 1889.
+
+```
+Question:
+```
+When was the Eiffel Tower completed?
+```
+
+Output:
+```
+Answer: 1889
+Confidence: 0.92
+Flagged: False
+```
