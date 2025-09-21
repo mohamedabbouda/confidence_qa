@@ -33,7 +33,7 @@ confidence_qa/
 ## ⚙️ Installation & Setup
 
 1. Clone the repo:
-   ```bash
+```
    git clone https://github.com/alex-dev/confidence_qa.git
    cd confidence_qa
 
@@ -44,5 +44,5 @@ source .venv/bin/activate   # macOS/Linux
 3. Install dependencies:
 
  pip install -r requirements.txt
- ```
- 
+```
+
