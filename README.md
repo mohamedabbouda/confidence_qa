@@ -41,11 +41,21 @@ confidence_qa/
 
 ---
 
+
+## ✅ Deliverables
+- `qa_pipeline.py` → QA pipeline with confidence filtering & logging  
+- `feedback_log.jsonl` → Flagged predictions  
+- `corrected_data.jsonl` → Corrected entries  
+- `app.py` → Gradio web demo  
+- `README.md` → Documentation  
+- [Hugging Face Demo](https://huggingface.co/spaces/mohamedabbouda/confidence-qa-demo)  
+---
+
 ## ⚙️ Installation & Setup
 
 1. Clone the repo:
 ```
-   git clone https://github.com/alex-dev/confidence_qa.git
+   git clone https://github.com/mohamedabbouda/confidence_qa
    cd confidence_qa
 ```
 
@@ -92,6 +102,6 @@ Flagged: False
 ## ⚙️  Demo
 
 ```
-
 https://huggingface.co/spaces/mohamedabbouda/confidence-qa-demo
+
 ```
