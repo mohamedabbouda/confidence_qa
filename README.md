@@ -18,3 +18,11 @@ The system includes **confidence-based filtering**, **feedback logging**, and an
 
 ## 📂 Project Structure
 
+confidence_qa/
+├── app.py # Web app (Gradio)
+├── qa_pipeline.py # Backend QA pipeline with threshold + logging
+├── test_model.py # Quick test script
+├── requirements.txt # Dependencies
+├── feedback_log.jsonl # Auto-generated flagged outputs
+├── corrected_data.jsonl # Manually corrected answers
+└── README.md # Project documentation
