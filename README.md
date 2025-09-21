@@ -27,3 +27,22 @@ confidence_qa/
 ├── corrected_data.jsonl # Manually corrected answers
 └── README.md # Project documentation
 ```
+
+---
+
+## ⚙️ Installation & Setup
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/alex-dev/confidence_qa.git
+   cd confidence_qa
+
+2. Create and activate virtual environment:
+python -m venv .venv
+source .venv/bin/activate   # macOS/Linux 
+  
+3. Install dependencies:
+
+ pip install -r requirements.txt
+ ```
+ 
